@@ -87,9 +87,9 @@ Our goal was to transform raw sales data into actionable dashboards that empower
 
 5. Future Quarters Outlook:
     
-  The pipeline is heavily concentrated in Stages 1 and 2 across future quarters, highlighting strong potential but also a need for deal progression and nurturing. The 
-  absence of Stage 5 deals may point to a longer sales cycle or stalled opportunities. Sales leaders should strategically allocate resources to advance early-stage deals 
-  and prevent stagnation.
+    The pipeline is heavily concentrated in Stages 1 and 2 across future quarters, highlighting strong potential but also a need for deal progression and nurturing. The 
+    absence of Stage 5 deals may point to a longer sales cycle or stalled opportunities. Sales leaders should strategically allocate resources to advance early-stage deals 
+    and prevent stagnation.
 
 6. Top Deals Table (Bottom Center):
     
@@ -104,6 +104,7 @@ Our goal was to transform raw sales data into actionable dashboards that empower
     4.Last Activity (days)
 
 *Insights:
+
   1.Pipeline Insights
   
     High average sales cycle (130 days) suggests a need to shorten sales processes for better velocity.
@@ -136,26 +137,27 @@ Our goal was to transform raw sales data into actionable dashboards that empower
 
 *Result:
 
-  1.Improved Visibility: Stakeholders gain a clear, real-time view of pipeline health and performance.
-  
-  2.Risk Mitigation: The dashboard identifies 191 opportunities without activity or next steps, allowing sales managers to take corrective action.
-  
-  3.Performance Optimization: Metrics like win rate (56%) and sales cycle (130 days) offer baselines for process improvement.
-  
-  4.Deal Prioritization: Helps focus on high-value, high-MEDDIC-scoring opportunities to increase closure rates.
+    1.Improved Visibility: Stakeholders gain a clear, real-time view of pipeline health and performance.
+    
+    2.Risk Mitigation: The dashboard identifies 191 opportunities without activity or next steps, allowing sales managers to take corrective action.
+    
+    3.Performance Optimization: Metrics like win rate (56%) and sales cycle (130 days) offer baselines for process improvement.
+    
+    4.Deal Prioritization: Helps focus on high-value, high-MEDDIC-scoring opportunities to increase closure rates.
   
   
 *Dashboard Users:
 
-  1.Sales Leadership (VPs, Directors)
-  
-  2.Sales Managers
-  
-  3.Sales Repsentaives
-  
-  4.Revenue Operations 
+    1.Sales Leadership (VPs, Directors)
+    
+    2.Sales Managers
+    
+    3.Sales Repsentaives
+    
+    4.Revenue Operations 
 
 *Conclusion:
+
   1.To wrap up Sales Cockpit is more than just a dashboard.
   
   2.It’s a strategic tool that transforms raw opportunity data into insights, action, and outcomes
