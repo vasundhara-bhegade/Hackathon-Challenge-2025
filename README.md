@@ -30,12 +30,12 @@ Our goal was to transform raw sales data into actionable dashboards that empower
 
   Create a comprehensive, data-driven dashboard that allows the sales leadership to:
   
-    1.Track pipeline and deal performance.
-    
-    2.Identify at-risk or inactive opportunities.
-    
-    3.Analyze forecast projections.
-    
+      1.Track pipeline and deal performance.
+      
+      2.Identify at-risk or inactive opportunities.
+      
+      3.Analyze forecast projections.
+      
    Prioritize top deals and maximize win rates.
    
 *Action:
@@ -44,52 +44,52 @@ Our goal was to transform raw sales data into actionable dashboards that empower
   
 1. Pipeline Insights:
    
-    1.Weighted Pipeline Amount
-     
-    2.Total Pipeline Value
-    
-    3.Pipeline Opportunities
-    
-    4.Win Rate
-    
-    5.Average Deal Size
-    
-    6.Average Sales Cycle
+      1.Weighted Pipeline Amount
+       
+      2.Total Pipeline Value
+      
+      3.Pipeline Opportunities
+      
+      4.Win Rate
+      
+      5.Average Deal Size
+      
+      6.Average Sales Cycle
 
 
 2. Opportunity Risk Indicators:
    
-    1.Without Amount:All opportunities have a value assigned.
-    
-    2.Without MEDDIC:Deals missing key qualification criteria.
-    
-    3.Without Activity:All opportunities lack recent activity.
-    
-    4.Without Next Step: No next steps logged.
-    
-    5.Expired: Deals past their due period.
-    
-    6.Stagnant: Deals showing inactivity.
-    
-    7.Lost Deals: Deals Lost.
+      1.Without Amount:All opportunities have a value assigned.
+      
+      2.Without MEDDIC:Deals missing key qualification criteria.
+      
+      3.Without Activity:All opportunities lack recent activity.
+      
+      4.Without Next Step: No next steps logged.
+      
+      5.Expired: Deals past their due period.
+      
+      6.Stagnant: Deals showing inactivity.
+      
+      7.Lost Deals: Deals Lost.
 
 3. Current Quarter:
    
-   Displays deal stages (1 to 5) with opportunity count and value.
+     Displays deal stages (1 to 5) with opportunity count and value.
 
 4. Forecast (Center Bottom Left):
    
-    1.Commit
-    
-    2.Pipeline
-    
-    3.Upside
+      1.Commit
+      
+      2.Pipeline
+      
+      3.Upside
 
 5. Future Quarters Outlook:
     
-    The pipeline is heavily concentrated in Stages 1 and 2 across future quarters, highlighting strong potential but also a need for deal progression and nurturing. The 
-    absence of Stage 5 deals may point to a longer sales cycle or stalled opportunities. Sales leaders should strategically allocate resources to advance early-stage deals 
-    and prevent stagnation.
+      The pipeline is heavily concentrated in Stages 1 and 2 across future quarters, highlighting strong potential but also a need for deal progression and nurturing. The 
+      absence of Stage 5 deals may point to a longer sales cycle or stalled opportunities. Sales leaders should strategically allocate resources to advance early-stage     
+      deals and prevent stagnation.
 
 6. Top Deals Table (Bottom Center):
     
