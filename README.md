@@ -22,9 +22,9 @@ Our goal was to transform raw sales data into actionable dashboards that empower
 
 *Situation:
 
-  The sales organization relies on a team of sales representatives to manage opportunities through various deal stages. However, tracking their performance, engagement 
-  levels, and pipeline health was challenging due to the dispersed nature of data across Salesforce.To empower the sales reps and leadership with timely insights, a 
-  centralized Sales Cockpit Dashboard was needed to transform raw Salesforce data into actionable intelligence.
+    The sales organization relies on a team of sales representatives to manage opportunities through various deal stages. However, tracking their performance, engagement 
+    levels, and pipeline health was challenging due to the dispersed nature of data across Salesforce.To empower the sales reps and leadership with timely insights, a 
+    centralized Sales Cockpit Dashboard was needed to transform raw Salesforce data into actionable intelligence.
 
 *Task:
 
@@ -40,7 +40,7 @@ Our goal was to transform raw sales data into actionable dashboards that empower
    
 *Action:
 
-  A Sales Cockpit Dashboard was developed with the following visual and analytical components:
+    A Sales Cockpit Dashboard was developed with the following visual and analytical components:
   
 1. Pipeline Insights:
    
@@ -160,8 +160,8 @@ Our goal was to transform raw sales data into actionable dashboards that empower
 
   1.To wrap up Sales Cockpit is more than just a dashboard.
   
-  2.It’s a strategic tool that transforms raw opportunity data into insights, action, and outcomes
-  .
+  2.It’s a strategic tool that transforms raw opportunity data into insights, action, and outcomes.
+  
   3.Built for performance-driven teams, it empowers everyone to make decisions, manage risk, and drive revenue growth.
   
   4.Thank you for reading.
