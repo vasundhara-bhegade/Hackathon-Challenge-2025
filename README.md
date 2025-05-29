@@ -65,13 +65,49 @@ Our goal was to transform raw sales data into actionable dashboards that empower
   2.MEDDIC score
   3.Age (days)
   4.Last Activity (days)
-Highlights red flags such as long deal age or no recent follow-up 
+
+*Insights:
+  1.Pipeline Insights
+  
+    High average sales cycle (130 days) suggests a need to shorten sales processes for better velocity.
+
+    Strong total pipeline value indicates healthy lead generation.
+
+  2.Current Quarter Pipeline
+  
+    Stage 3-to-5 transitions need more enablement or customer engagement.
+
+    Healthy stage 1 bar shows strong top-of-bar activity.
+
+  3.Forecast View
+  
+    Large gap between total pipeline and commit points to a need for better deal validation.
+
+    Upside offers room for growth if engagement and progression improve.
+
+  4.Future Quarters Outlook
+  
+    Heavy early-stage concentration suggests deals are not maturing fast enough.
+
+    Early identification allows time to course-correct and move deals forward now.
+
+  5.Top Deals Table
+
+    Multiple top deals are over 200 days old with little to no recent activity—these require urgent follow-up.
+
+    MEDDIC scores are relatively strong, indicating qualification efforts are in place for key deals.
 
 *Result:
   1.Improved Visibility: Stakeholders gain a clear, real-time view of pipeline health and performance.
   2.Risk Mitigation: The dashboard identifies 191 opportunities without activity or next steps, allowing sales managers to take corrective action.
   3.Performance Optimization: Metrics like win rate (56%) and sales cycle (130 days) offer baselines for process improvement.
   4.Deal Prioritization: Helps focus on high-value, high-MEDDIC-scoring opportunities to increase closure rates.
+  
+*Dashboard Users:
+  1.Sales Leadership (VPs, Directors)
+  2.Sales Managers
+  3.Sales Repsentaives
+  4.Revenue Operations 
 
 *Conclusion:
   1.To wrap up Sales Cockpit is more than just a dashboard.
