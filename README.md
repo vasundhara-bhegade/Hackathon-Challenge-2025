@@ -148,7 +148,7 @@ Our goal was to transform raw sales data into actionable dashboards that empower
   
 *Dashboard Users:
 
-    1.Sales Leadership (VPs, Directors)
+    1.Sales Leadership 
     
     2.Sales Managers
     
